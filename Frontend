@@ -1,1 +1,41 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title></title>
+   <style type="text/css">
+     h1{
+        margin: 0;
+     }
+     
+     .logo{
+        width: 142px;
+        height: 58px;
+        border: 1px solid #000;
+     }
+     
+     .logo h1 .logo-hd{
+        display: block;
+        width: 142px;
+        height: 58px;
+        background: url(img/logo.png) no-repeat 0 0 142px 58px;
+     }
+     
+     .box{
+        width: 142px;
+        padding-top: 58px;
+        border: 1px solid #000;
+     }
+   </style>
+</head>
+<body>
+   <div class="logo">
+   <h1>
+   <a href="" class="logo-hd"
+   淘宝网
+   </a>
+   </h1>
+   </div>
+   
+   <div class="box></div>
+</body>
